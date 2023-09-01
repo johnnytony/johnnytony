@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 Hi there!
 
-- 🔭 I’m currently working on AlticeLabs
+- 🔭 I’m currently working on Altice Labs
 - 🌱 I’m currently learning Kafka and RabbitMQ
 - 📫 How to reach me: joaopro23@gmail.com
 
