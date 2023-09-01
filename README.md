@@ -7,9 +7,7 @@
   </a>
 </p>
 
-<a href="#title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="ryzenboi98" align="right" />
-</a>
+
 
 - :office: &nbsp;I'm currently working at **Altice Labs**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B3nio/)**
