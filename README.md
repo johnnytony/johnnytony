@@ -7,12 +7,18 @@
   </a>
 </p>
 
-
+<a href="#ryzenboi98-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryzenboi98&show_icons=true&theme=onedark" align="right" />
+</a>
 
 - :office: &nbsp;I'm currently working at **Altice Labs**
+- :seedling: &nbsp;I’m currently working as a **Python Backend Dev**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B3nio/)**
 
 <br>
+<br>
+<br>
+
 
 <h2 align="left" id="ryzenboi98-tech">Favorite Tech</h2>
 
@@ -35,5 +41,8 @@
   </tr>
 </table>
 
+<h2 align="left" id="ryzenboi98-tech">Music</h2>
+
+> Currently listenning to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ujuq241qyia2mvohdnnb4ay7s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
