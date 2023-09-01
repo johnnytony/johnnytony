@@ -11,6 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ryzenboi98&show_icons=true&theme=onedark" align="right" />
 </a>
 
+<br>
+<br>
+
 - :office: &nbsp;I'm currently working at **Altice Labs**
 - :seedling: &nbsp;I’m currently working as a **Python Backend Dev**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B3nio/)**
