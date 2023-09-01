@@ -12,7 +12,6 @@
 </a>
 
 <br>
-<br>
 
 - :office: &nbsp;I'm currently working at **Altice Labs**
 - :seedling: &nbsp;I’m currently working as a **Python Backend Dev**
