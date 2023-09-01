@@ -14,7 +14,7 @@
 <br>
 
 - :office: &nbsp;I'm currently working at **Altice Labs**
-- :seedling: &nbsp;I’m currently working as a **Python Backend Dev**
+- :seedling: &nbsp;I’m currently working as a **Python Backend DEV**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B3nio/)**
 <a href="#ryzenboi98-title">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ujuq241qyia2mvohdnnb4ay7s&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="left" />
