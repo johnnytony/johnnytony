@@ -11,4 +11,5 @@ Hi there!
 - 📫 How to reach me: joaopro23@gmail.com
 
 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ujuq241qyia2mvohdnnb4ay7s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
