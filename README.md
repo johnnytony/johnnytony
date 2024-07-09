@@ -2,13 +2,13 @@
 <h3 align="left">Software Engineer</h3>
 
 <p align="left">
-  <a href="https://github.com/ryzenboi98/ryzenboi98">
-    <img src="https://komarev.com/ghpvc/?username=ryzenboi98" alt="page views" />
+  <a href="https://github.com/johnnytony/johnnytony">
+    <img src="https://komarev.com/ghpvc/?username=johnnytony" alt="page views" />
   </a>
 </p>
 
-<a href="#ryzenboi98-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryzenboi98&show_icons=true&theme=onedark" align="right" />
+<a href="#johnnytony-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=johnnytony&show_icons=true&theme=onedark" align="right" />
 </a>
 
 <br>
@@ -16,7 +16,7 @@
 - :office: &nbsp;I'm currently working at **Altice Labs**
 - :seedling: &nbsp;I’m currently working as a **Python Backend DEV**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B3nio/)**
-<a href="#ryzenboi98-title">
+<a href="#johnnytony-title">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ujuq241qyia2mvohdnnb4ay7s&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="left" />
 </a>
 
@@ -26,7 +26,7 @@
 <br>
 
 
-<h2 align="left" id="ryzenboi98-tech">Favorite Tech</h2>
+<h2 align="left" id="johnnytony-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 <table>
