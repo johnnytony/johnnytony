@@ -1,10 +1,6 @@
 <h1 align="left" id="title">:wave: Hello there! I'm João</h1>
 <h3 align="left">Software Engineer</h3>
 
-<a href="#johnnytony-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnnytony&show_icons=true&theme=onedark" align="right" />
-</a>
-
 <br>
 
 - :office: &nbsp;I'm currently working at **xgeeks**
@@ -18,7 +14,6 @@
 <br>
 <br>
 <br>
-
 
 <h2 align="left" id="johnnytony-tech">Favorite Tech</h2>
 
