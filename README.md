@@ -3,7 +3,6 @@
 
 - :office: &nbsp;I'm currently working at **xgeeks**
 - :seedling: &nbsp;I’m currently working as a **Software Engineer**
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B3nio/)**
 
 <h4>Listenning to</h4>
 <a href="#johnnytony-title">
