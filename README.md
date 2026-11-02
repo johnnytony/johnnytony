@@ -4,16 +4,6 @@
 - :office: &nbsp;I'm currently working at **xgeeks**
 - :seedling: &nbsp;I’m currently working as a **Software Engineer**
 
-<h4>Listenning to</h4>
-<a href="#johnnytony-title">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ujuq241qyia2mvohdnnb4ay7s&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="left" />
-</a>
-
-<br>
-<br>
-<br>
-<br>
-
 <h2 align="left" id="johnnytony-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
